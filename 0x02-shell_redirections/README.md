@@ -1,1 +1,1 @@
-Write a script that reverse its input
+0x02. Shell, I/O Redirections and filters
